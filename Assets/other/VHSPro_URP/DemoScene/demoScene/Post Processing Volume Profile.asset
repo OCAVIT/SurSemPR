@@ -275,7 +275,7 @@ MonoBehaviour:
     m_Value: 1
   screenResPresetId:
     m_OverrideState: 1
-    m_Value: 7
+    m_Value: 9
   screenWidth:
     m_OverrideState: 1
     m_Value: 640
@@ -283,13 +283,13 @@ MonoBehaviour:
     m_OverrideState: 1
     m_Value: 480
   colorOn:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 0
   colorMode:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 2
   colorSyncedOn:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 1
   bitsR:
     m_OverrideState: 1
@@ -301,7 +301,7 @@ MonoBehaviour:
     m_OverrideState: 1
     m_Value: 2
   bitsSynced:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 163
   bitsGray:
     m_OverrideState: 1
@@ -310,22 +310,22 @@ MonoBehaviour:
     m_OverrideState: 1
     m_Value: {r: 1, g: 1, b: 1, a: 1}
   ditherOn:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 1
   ditherMode:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 6
   ditherAmount:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 0.3
   paletteOn:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 1
   paletteId:
-    m_OverrideState: 1
-    m_Value: 11
+    m_OverrideState: 0
+    m_Value: 13
   paletteDelta:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 5
   paletteTex:
     m_OverrideState: 1
@@ -335,14 +335,14 @@ MonoBehaviour:
   paletteCustomName: 
   paletteCustomInit: 0
   bleedOn:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 1
   crtMode:
-    m_OverrideState: 1
-    m_Value: 0
+    m_OverrideState: 0
+    m_Value: 2
   bleedAmount:
-    m_OverrideState: 1
-    m_Value: 1
+    m_OverrideState: 0
+    m_Value: 4.16
   noiseResGlobal:
     m_OverrideState: 1
     m_Value: 1
@@ -354,115 +354,115 @@ MonoBehaviour:
     m_Value: 480
   filmgrainOn:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 1
   filmGrainAmount:
     m_OverrideState: 1
-    m_Value: 0.016
+    m_Value: 0.033
   signalNoiseOn:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 1
   signalNoiseAmount:
-    m_OverrideState: 1
-    m_Value: 0.135
+    m_OverrideState: 0
+    m_Value: 0.083
   signalNoisePower:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 0.83
   lineNoiseOn:
     m_OverrideState: 1
     m_Value: 1
   lineNoiseAmount:
     m_OverrideState: 1
-    m_Value: 2.54
+    m_Value: 1.34
   lineNoiseSpeed:
     m_OverrideState: 1
-    m_Value: 5
+    m_Value: 1.04
   tapeNoiseOn:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 1
   tapeNoiseTH:
-    m_OverrideState: 1
-    m_Value: 0.63
+    m_OverrideState: 0
+    m_Value: 1.197
   tapeNoiseAmount:
-    m_OverrideState: 1
-    m_Value: 1
+    m_OverrideState: 0
+    m_Value: 0.123
   tapeNoiseSpeed:
-    m_OverrideState: 1
-    m_Value: 1
+    m_OverrideState: 0
+    m_Value: 1.292
   scanLinesOn:
-    m_OverrideState: 1
-    m_Value: 0
+    m_OverrideState: 0
+    m_Value: 1
   scanLineWidth:
-    m_OverrideState: 1
-    m_Value: 10
+    m_OverrideState: 0
+    m_Value: 17.98
   linesFloatOn:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 0
   linesFloatSpeed:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 1
   stretchOn:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 0
   jitterHOn:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 0
   jitterHAmount:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 0.5
   jitterVOn:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 1
   jitterVAmount:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 1
   jitterVSpeed:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 1
   twitchHOn:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 0
   twitchHFreq:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 1
   twitchVOn:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 0
   twitchVFreq:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 1
   signalTweakOn:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 0
   signalAdjustY:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 0.179
   signalAdjustI:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 0.147
   signalAdjustQ:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 0.153
   signalShiftY:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: -1.01
   signalShiftI:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 1.48
   signalShiftQ:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 1
   feedbackOn:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 1
   feedbackThresh:
     m_OverrideState: 1
-    m_Value: 0.1
+    m_Value: 0.167
   feedbackAmount:
     m_OverrideState: 1
-    m_Value: 2
+    m_Value: 2.09
   feedbackFade:
     m_OverrideState: 1
-    m_Value: 0.82
+    m_Value: 0.807
   feedbackColor:
     m_OverrideState: 1
     m_Value: {r: 1, g: 0.5, b: 0, a: 1}
